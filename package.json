@@ -1,0 +1,19 @@
+{
+  "name": "github-user-activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biswajit-halder/github-user-activity.git"
+  },
+  "author": "biswajit halder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biswajit-halder/github-user-activity/issues"
+  },
+  "homepage": "https://github.com/biswajit-halder/github-user-activity#readme"
+}
